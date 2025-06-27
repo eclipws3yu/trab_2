@@ -5,7 +5,7 @@
     --cor-de-fundo: #D8BFD8;
     --fundo-senha: #9370DB;
     --fundo-texto: #001E40;
-    --borda: #0075FF;
+    --borda: #D8BFD8;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -15,7 +15,7 @@
 }
 
 body {
-    color: var(--branco);
+    color: var(--preto);
     background-color: var(--cor-de-fundo);
     font-family: var(--roboto);
 }
