@@ -46,7 +46,7 @@ body {
     border: none;
     color: var(--branco);
     font-family: var(--roboto-mono);
-    font-size: 35px;
+    font-size: 30px;
     width: 70%;
 }
 
@@ -132,16 +132,16 @@ label {
 
 .fraca {
     width: 25%;
-    background-color: #E71B32;
+    background-color: #fc2642;
 }
 
 .media {
-    background-color: #FAF408;
+    background-color: #faf65c;
     width: 50%;
 }
 
 .forte {
-    background-color: #00FF85;
+    background-color: #4cfca8;
     width: 100%;
 }
 
